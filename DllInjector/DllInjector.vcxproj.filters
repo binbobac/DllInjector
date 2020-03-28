@@ -18,5 +18,11 @@
     <ClCompile Include="DllInjector.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Dllinject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DllInject2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
